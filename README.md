@@ -1,0 +1,2 @@
+# LoxBerryCz
+LoxBerry Czech Translation
